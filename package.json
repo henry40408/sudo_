@@ -1,0 +1,22 @@
+{
+  "name": "sudo_",
+  "version": "1.0.0",
+  "description": "Just a command.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test command available.\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henry40408/sudo_.git"
+  },
+  "keywords": [
+    "sudo_"
+  ],
+  "author": "Heng-Yi Wu <henry40408@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/henry40408/sudo_/issues"
+  },
+  "homepage": "https://github.com/henry40408/sudo_#readme"
+}
